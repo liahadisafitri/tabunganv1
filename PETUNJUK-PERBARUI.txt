@@ -1,0 +1,19 @@
+TABUNGAN RIKO & LIA — VERSI 6 (tampilan baru + tahun Januari–Desember)
+
+MEMPERBARUI SITUS YANG SUDAH ONLINE (±2 menit)
+1. Buka repo GitHub Anda. Cara termudah:
+   "Add file" -> "Upload files" -> tarik HANYA file index.html dari folder ini -> Commit changes.
+   (Nama file sama, jadi otomatis menimpa versi lama.)
+2. JANGAN upload / hapus data.json — itu berisi tabungan Anda. File ini tidak disertakan agar aman.
+3. Tunggu 1-2 menit, buka situs, lalu tekan Ctrl+Shift+R (HP: tutup tab lalu buka lagi) agar versi lama tidak terbaca dari cache.
+4. Lakukan di SEMUA perangkat (HP Lia dsb.) — buka ulang situsnya, jangan memakai tab lama.
+
+YANG BERUBAH PADA DATA ANDA
+- Tahun sekarang dihitung Januari–Desember. Data lama otomatis disesuaikan:
+  bulan sebelum bulan mulai lama diisi kosong; semua nominal & centang Anda tetap di bulan yang sama.
+- Setelah dibuka, data baru tersimpan dalam format baru saat Anda mengubah sesuatu.
+  (Sebelum itu masih bisa diurungkan; cadangan: Lainnya -> Ekspor & cadangan.)
+
+CATATAN
+- Kalau sudah terhubung GitHub, koneksi tetap jalan; tidak perlu membuat token lagi.
+- Pemasangan baru dari awal: lihat PETUNJUK.txt di paket tabungan-online-mudah sebelumnya.
